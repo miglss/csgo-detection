@@ -21,6 +21,10 @@ As the task is not really hard, model was trained for 30 epochs using standard h
 - 0.945 precision
 - 0.917 recall
 
+Prediction examples:
+
+<img src="images/predictions_example.png" alt="map" width="700"/>
+
 Quality on validation set during training:
 
 <img src="images/metrics.png" alt="map" width="1000"/>
